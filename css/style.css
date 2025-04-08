@@ -1,0 +1,84 @@
+/* linea de comentario */
+
+/* juego de pares */
+
+/* 
+    selector{
+        propiedad1: valor;
+        propiedad2: valor; 
+    }
+
+*/
+
+
+
+/* maneras de aplicar estilos mediante selectores */
+
+/* etiqueta */
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+
+/* class */
+.red{
+    color: red;
+    text-align: right;
+}
+
+/* id */
+#pink{
+    color: pink !important;
+    text-align: left;
+}
+
+
+
+/* estilos basicos de html ejemplo */
+
+/* estilos generales */
+body{
+    background-color: #0E0D0D;
+}
+
+/* estilos de header */
+header{
+    text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #C66E0C;
+    font-weight: bold;
+}
+
+/* estilos de main */
+
+main{
+    text-align: center;
+}
+
+main h1{
+    color:#C66E0C;
+    text-transform: uppercase;
+}
+
+main p{
+    color: whitesmoke;
+    line-height: 30px;
+    letter-spacing: 5px;
+}
+
+main h2{
+    color: #C66E0C;
+}
+
+/* estilos de footer */
+footer{
+    color: whitesmoke;
+    text-align: center;
+}
